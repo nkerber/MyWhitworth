@@ -1,0 +1,52 @@
+# Overview:
+MyWhitworth is an all-in-one information platform. Giving students and faculty the ability to stay in touch with the life of Whitworth all from their phone. Combining simple things such as what’s being served by Sodexo all the way up to complex scheduling of events, you can track it all.
+
+Who is this for?
+This is for Whitworth Students and Faculty members. We believe that while it has use for all grade levels and faculty, it would be primarily helpful for Freshman and Sophomore standing students. This is due to its ability to simply the complexities of Whitworth campus and give students the ability to stay in touch with all activities happening within Whitworth.
+
+Why this app?
+If you’ve ever used any Whitworth applications before, you know that they can be a struggle. From hard to use interfaces to outdated information, the Whitworth student population and faculty can use an upgrade. That’s where our platform comes in.
+
+What do you need?
+All you need is a smartphone and access to the app store or google play store! Your smartphone wll need to be an ios or Android device with fairly updated software.
+
+Breakdown:
+
+The application will have 5 different sections: Schedule, Menu, Campus Map, Events & More
+
+Campus Map
+•	Map picture above
+•	Building list below
+•	Click to expand
+o	Building hours if applicable
+Calendar
+•	Tap events to enlarge
+•	List default and calendar option available
+•	Color coded events
+Menu
+•	Similar format to BiteU
+•	Hanging title bar
+•	Day/date above
+Schedule
+•	Similar to pirate port
+•	Includes:
+o	Location
+o	Time
+o	Professor
+o	Course # & Name
+o	Either refresh button or automatic (depends on login/verification)
+More
+•	Tabs
+•	Quick call
+o	Registrar
+o	Financial aid
+o	911
+o	Campus security
+•	Links
+•	Tabs to other areas
+
+Display:
+
+- 4 sections listed at the bottom of the screen
+- Automatically opens to the events Schedule
+    - events schedule will be the middle option listed at the bottom of screen
