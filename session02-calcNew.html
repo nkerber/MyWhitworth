@@ -1,0 +1,152 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<title>Whitworth Calculator</title>
+
+<style type="text/css">
+	div {
+		font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+		background-color:#cccccc;
+		border-color:#c20202;
+		border-width:medium
+	}
+	
+	div.main {
+		margin-left:auto;
+		margin-right:auto;
+		margin-top:100px;
+		width:550px;
+		height:400px;
+	}
+	
+	h1 {
+		color:#c20202;
+	}
+	
+	button {
+		moz-border-radius: 15px;
+		-webkit-border-radius: 15px;
+		border-width:thin;
+		width:36px;
+		margin-left:5px;
+		margin-right:5px;
+		margin-top:3px;
+		margin-bottom:3px;
+	}
+	
+	button.number {
+		color:#ffffff;
+		background-color:#c20202;
+  		border-color:#c20202;
+	}
+	
+	button.op {
+		color:#ffffff;
+		background-color:#444444;
+		border-color:#c20202;
+	}
+	
+	span.display {
+		moz-border-radius: 8px;
+		-webkit-border-radius: 8px;
+		background-color:#c20202;
+		color:#ffffff;
+		font-weight:bold;
+		width:100%;
+		text-align:right;
+		padding-left:10px;
+		padding-right:10px;
+	}
+</style>
+
+<script type="text/javascript">
+var leftval, op;
+	function numberclick(num) {
+		//Get access to the display
+		var d = document.getElementById('display');
+		//What is in the display, and it should be a number
+		var v = parseInt(d.innerHTML);
+		if (v!=0){
+			num +=(v*10);
+		}
+		d.innerHTML=num.toString();
+	}
+	function opclick(o) {
+		var d = document.getElementById('display');
+		leftval = parseInt(d.innerHTML);
+		op = o;
+		d.innerHTML= "0";
+	}
+	function reset() {
+		var d = document.getElementById('display');
+		d.innerHTML="0";
+		leftval=0;
+		op= '?';
+	}
+	function calculate(){
+		var d = document.getElementById('display');
+		var rightval= parseInt(d.innerHTML);
+		var final=0;
+		if(op=='*'){
+			final= leftval*rightval;
+		}
+		if(op=='/'){
+			final= leftval/rightval;
+		}
+		if(op=='-'){
+			final= leftval-rightval;
+		}
+		if(op=='+'){
+			final= leftval+rightval;
+		}
+		d.innerHTML=final.toString();
+	}
+</script>
+
+</head>
+
+<body>
+	<div class="main">
+		<img style="float:left;margin-left:20px;margin-top:22px;margin-bottom:60px;height:35px" src="https://d2o2figo6ddd0g.cloudfront.net/6/w/31cxsxy4no5n2j/Flagonly.jpg" alt="Whitworth University"/>
+		<img style="float:right;margin-right:20px;margin-top:22px;margin-bottom:60px;height:35px" src="https://d2o2figo6ddd0g.cloudfront.net/6/w/31cxsxy4no5n2j/Flagonly.jpg" alt="Whitworth University"/>
+		<div style="clear:both"></div>
+		<h1 style="text-align:center">π-rates Calculator</h1>
+		<table style="border:0;margin-left:auto;margin-right:auto">
+			<tr style="background-color:#c20202;text-align:right">
+				<td colspan="5"><span class="display" id="display">0</span></td>
+			</tr>
+			<tr>
+				<td><button class="number" onclick="numberclick(7)">7</button></td>
+				<td><button class="number" onclick="numberclick(8)">8</button></td>
+				<td><button class="number" onclick="numberclick(9)">9</button></td>
+				<td><button class="op" onclick="opclick('/')">/</button></td>
+				<td><button class="op">?</button></td>
+			</tr>
+			<tr>
+				<td><button class="number" onclick="numberclick(4)">4</button></td>
+				<td><button class="number" onclick="numberclick(5)">5</button></td>
+				<td><button class="number" onclick="numberclick(6)">6</button></td>
+				<td><button class="op" onclick="opclick('*')">*</button></td>
+				<td><button class="op">?</button></td>
+			</tr>
+			<tr>
+				<td><button class="number" onclick="numberclick(1)">1</button></td>
+				<td><button class="number" onclick="numberclick(2)">2</button></td>
+				<td><button class="number" onclick="numberclick(3)">3</button></td>
+				<td><button class="op" onclick="opclick('-')">-</button></td>
+				<td><button class="op">?</button></td>
+			</tr>
+			<tr>
+				<td><button class="number" onclick="numberclick(0)">0</button></td>
+				<td><button class="op" onclick="reset()">CE</button></td>
+				<td><button class="op" onclick="calculate()">=</button></td>
+				<td><button class="op" onclick="opclick('+')">+</button></td>
+				<td><button class="op">?</button></td>
+			</tr>
+		</table>
+	</div>
+</body>
+
+</html>

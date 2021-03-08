@@ -1,0 +1,92 @@
+<html>
+    <head>
+        <title>World Relief Volunteer Management</title>
+        <script>
+
+            var types = ['Road Runner','Apartment Set Up','Donation Pick Up']
+
+            function makeVolunteer(name, type, phone) {
+                var vol = {
+                    name: name,
+                    type: type,
+                    phone: phone
+                }
+                return vol
+            }
+
+            function makeVolunteers() {
+                var names = ['Pete', 'Abdallah', 'Rowan', 'George', 'Patricia', 'Anthony', 'Tyler','Spencer','Levi',
+                    'Sarah','Nathanael','Jeremy','Trenton','Finn','Jonathan','Garrett','Madeline','Zakris','Travis',
+                    'Madeline','Joshua','Michael','Trevor','Mathaniel','Kami','Jarred']
+                
+
+                var vols = []
+                for (i=0; i<10; i++) {
+                    var name = names[parseInt(Math.random()*names.length)]
+                    var type = types[parseInt(Math.random()*types.length)]
+                    var phone = (parseInt(Math.random()*900)+100).toString() + '-' + (parseInt(Math.random()*9000)+1000).toString()
+                    
+                    vols.push(makeVolunteer(name, type, phone))
+                }
+                return vols
+            }
+
+            function listVolunteers() {
+                var hdr = document.getElementById('volcount')
+                var list = document.getElementById('volunteerlist')
+                var vols = makeVolunteers()
+
+                hdr.innerHTML = 'Volunteer Count: ' + vols.length.toString()
+                for (i=0; i<vols.length; i++) {
+                    var li = document.createElement('li')
+                    li.appendChild(document.createTextNode(vols[i].name + ' (' + vols[i].type + '), p:' + vols[i].phone))
+                    list.appendChild(li)
+                }
+            }
+            
+            function makeOpportunity(org,type,location,hours) {
+                var op = {
+                    org: org,
+                    type: type,
+                    location: location,
+                    hours: hours,
+                }
+                
+                return op
+            }
+            function makeOps() {
+                var numOps = parseInt((Math.random()*3)+3)
+                var ops = []
+
+                var orgs = ['Greenpeace', 'Parkrun', 'Cards Against Humanity', 'Microsoft', 'PETA', 'Sodexo', 'Whitworth','Target','Walmart']
+                var loc = ['Washington', 'Virginia', 'New Hampshire', 'Alabama', 'Florida', 'Oregon', 'Arizona', 'California', 'New York', 'Texas', 'New Jersey', 'Nebraska', 'Alaska', 'Ohio']
+                
+                for (i = 0; i < numOps; i++) {
+                    ops.push(makeOpportunity(orgs[parseInt((Math.random)*orgs.length)], types[parseInt((Math.random)*types.length)], loc[parseInt((Math.random)*loc.length)], parseInt((Math.random)*20)))
+                }
+                return ops
+            }
+            function listOpportunities() {
+                var title = document.getElementById('opcount')
+                ops = makeOps()
+                title.innerHTML = 'Opportunities Available: ' + ops.length.toString()
+            }
+        </script>
+    </head>
+
+    <body>
+        <h1>Volunteers</h1>
+        <div id='volunteers'>
+            <h2 id='volcount'></h2>
+            <ul id='volunteerlist'></ul>
+        </div>
+            <h2 id='opcount'></h2>
+            <ul id='opportunities'></ul>
+
+        <script>
+            listVolunteers()
+            listOpportunities()
+        </script>
+    </body>
+
+</html>

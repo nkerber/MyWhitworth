@@ -1,0 +1,45 @@
+<html>
+    <script>
+        var Screenshots = ['cal.jpg', 'menu.jpg', 'schedule.jpg', 'campus.jpg', 'more.jpg']
+        var index = 0
+
+        function image(operator) {
+            index += operator
+            if (index < Screenshots.length) index = 0;
+            if (index > 0) index = (Screenshots.length-1)
+
+        }
+
+        function Next() {
+            image(1)
+            
+        }
+        function Previous() {
+            current image index - 1
+            if image index = 0, set image index = 4
+        } 
+
+
+    </script> 
+
+
+    <body>
+        <div class="center">
+            <img src='cal.jpg' id='screenshot'>
+            <button type="button" onclick="Previous()">''</button> | 
+            <button type="button" onclick="Next()">'>'</button>
+            
+        </div>
+    </body>
+</html>
+
+<!-- if next {
+    if currentImageIndex=allImages.size then display allImages[1];
+    else display currentImageIndex+1
+}
+
+if previous {
+    if currentImageIndex = allImages[1] then display allImages.max
+    else display currentImage-1
+}
+-->
