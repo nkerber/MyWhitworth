@@ -1,95 +1,85 @@
 import 'package:flutter/material.dart';
-import 'package:url_launcher/url_launcher.dart';
+import 'package:font_awesome_flutter/font_awesome_flutter.dart';
+import 'package:mywhitworth/ClassesScreen.dart';
+import 'package:mywhitworth/MenuScreen.dart';
+import 'package:mywhitworth/EventsScreen.dart';
+import 'package:mywhitworth/CampusScreen.dart';
+import 'package:mywhitworth/MoreScreen.dart';
 
-//The main function is the starting point for all of our functions
-void main() {
-  runApp(
-    MaterialApp(
-      home: Scaffold(
-        backgroundColor: Colors.red[50],
-        appBar: AppBar(
-          title: Text('My Whitworth'),
-          backgroundColor: Colors.red[800],
-        ),
-        body: Center(
-          child: Row(
-            children: [
-              Expanded(
-                child: Container(
-                  child: ConstrainedBox(
-                    constraints: BoxConstraints.expand(),
-                    child: TextButton(
-                      onPressed: () =>
-                          launch('https://blackboard.whitworth.edu/'),
-                      child: Image.asset(
-                        'assets/images/Blackboard.png',
-                        width: 100,
-                        height: 100,
-                      ),
-                    ),
-                  ),
-                ),
-              ),
-              Expanded(
-                child: Container(
-                  child: ConstrainedBox(
-                    constraints: BoxConstraints.expand(),
-                    child: TextButton(
-                      onPressed: () => launch(
-                          'https://community.whitworth.edu/Pages/Default.aspx'),
-                      child: Image.asset(
-                        'assets/images/PiratePort.png',
-                        width: 100,
-                        height: 100,
-                      ),
-                    ),
-                  ),
-                ),
-              ),
-              Expanded(
-                child: Container(
-                  child: ConstrainedBox(
-                    constraints: BoxConstraints.expand(),
-                    child: TextButton(
-                      onPressed: () =>
-                          launch('https://whitworth.joinhandshake.com/login'),
-                      child: Image.asset(
-                        'assets/images/Handshake.png',
-                        width: 100,
-                        height: 100,
-                      ),
-                    ),
-                  ),
-                ),
-              ),
-              Expanded(
-                child: Container(
-                  child: ConstrainedBox(
-                    constraints: BoxConstraints.expand(),
-                    child: TextButton(
-                      onPressed: () => launch('https://whitworthoutdoors.com/'),
-                      child: Image.asset(
-                        'assets/images/WOR.png',
-                        width: 100,
-                        height: 100,
-                      ),
-                    ),
-                  ),
-                ),
-              ),
-            ],
-          ),
-        ),
-      ),
-    ),
-  );
-}
-/*
-_launchURL() async {
-  const url = 'https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwif44bg_6PvAhUM7J4KHSJUDX4QFjAAegQIAhAD&url=https%3A%2F%2Fapps.apple.com%2Fus%2Fapp%2Fblackboard%2Fid950424861&usg=AOvVaw3HgqdNpWllCJH9RKcG0AAd';
-  if (await canLaunch(url)) {
-    await launch(url);
-  } else {
-    throw 'Could not launch $url';
+void main() => runApp(MyApp());
+
+class MyApp extends StatelessWidget {
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'MyWhitworth',
+      debugShowCheckedModeBanner: false,
+      theme: ThemeData(scaffoldBackgroundColor: Colors.red[50]),
+      home: MainNavBar(),
+    );
   }
-}*/
+}
+
+class MainNavBar extends StatefulWidget {
+  @override
+  _MainNavBarState createState() => _MainNavBarState();
+}
+
+class _MainNavBarState extends State<MainNavBar> {
+  int _currentIndex = 0;
+  final List<Widget> _children = [
+    CampusScreen(),
+    EventsScreen(),
+    MenuScreen(),
+    ClassesScreen(),
+    MoreScreen(),
+  ];
+
+  Widget build(BuildContext context) {
+    return new Scaffold(
+      body: _children[_currentIndex],
+      bottomNavigationBar: BottomNavigationBar(
+        currentIndex: _currentIndex,
+        onTap: (int value) {
+          setState(() {
+            _currentIndex = value;
+          });
+        },
+        items: [
+          BottomNavigationBarItem(
+              icon: Icon(
+                FontAwesomeIcons.clock,
+                size: 25.0,
+              ),
+              label: 'Classes'),
+          BottomNavigationBarItem(
+              icon: Icon(
+                FontAwesomeIcons.utensils,
+                size: 25.0,
+              ),
+              label: 'Meals'),
+          BottomNavigationBarItem(
+              icon: Icon(
+                FontAwesomeIcons.calendarAlt,
+                size: 25.0,
+              ),
+              label: 'Events'),
+          BottomNavigationBarItem(
+              icon: Icon(
+                FontAwesomeIcons.mapMarkerAlt,
+                size: 25.0,
+              ),
+              label: 'Campus'),
+          BottomNavigationBarItem(
+              icon: Icon(
+                FontAwesomeIcons.ellipsisH,
+                size: 25.0,
+              ),
+              label: 'More'),
+        ],
+        selectedItemColor: Colors.red,
+        unselectedItemColor: Colors.grey,
+        type: BottomNavigationBarType.fixed,
+      ),
+    );
+  }
+}
