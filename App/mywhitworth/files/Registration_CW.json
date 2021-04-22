@@ -1,0 +1,52 @@
+[
+    {
+        "courseID": "BU-250-1",
+        "courseName": "Leading Organizations",
+        "professor": "Kevin Parker",
+        "location": "Weyerhaeuser Hall 305",
+        "credit": 3.00000,
+        "days": "TTH",
+        "startTime": "12:50:00",
+        "endTime": "14:10:00"
+    },
+    {
+        "courseID": "BU-410-1",
+        "courseName": "Global Strategic Management",
+        "professor": "Dawn Keig",
+        "location": "Hawthorne Hall 112",
+        "credit": 3.00000,
+        "days": "MWF",
+        "startTime": "13:55:00",
+        "endTime": "15:50:00"
+    },
+    {
+        "courseID": "BU-489-1",
+        "courseName": "Marketing Strategy",
+        "professor": "David Sloan",
+        "location": "Weyerhaeuser Hall 305",
+        "credit": 3.00000,
+        "days": "TTH",
+        "startTime": "8:00:00",
+        "endTime": "9:20:00"
+    },
+    {
+        "courseID": "CS-378H-N",
+        "courseName": "How To Make Darn-Near Anything",
+        "professor": "Pete Tucker",
+        "location": "Whitworth Campus Eric Johnston Science Center 308",
+        "credit": 3.00000,
+        "days": "W",
+        "startTime": "18:30:00",
+        "endTime": "21:30:00"
+    },
+    {
+        "courseID": "TH-314-1",
+        "courseName": "History of Christianity II",
+        "professor": "Keith Beebe",
+        "location": "Online",
+        "credit": 3.00000,
+        "days": "MWF",
+        "startTime": "9:30:00",
+        "endTime": "10:50:00"
+    }
+]

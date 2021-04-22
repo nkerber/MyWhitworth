@@ -1,0 +1,2139 @@
+[
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "ee8fab79-01ff-458b-be89-7e23733c80a2"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2017-06-01",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2017-06-01",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 1.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2017-09-06T00:00:00-07:00",
+            "endOn": "2017-10-20T00:00:00-07:00"
+        },
+        "id": "760808c9-339c-4316-86e7-91bca96cd0e7"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "8532bc73-0023-42c7-afaf-1c1167778ddf"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2017-06-01",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2017-06-01",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 1.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2017-09-06T00:00:00-07:00",
+            "endOn": "2017-12-15T00:00:00-08:00"
+        },
+        "id": "ba1244af-121c-4da0-92ec-1d342fc27c3f"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "923a1865-072e-45e2-bf27-32eebeb44e3e"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2017-06-01",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2017-06-01",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2017-09-06T00:00:00-07:00",
+            "endOn": "2017-12-15T00:00:00-08:00"
+        },
+        "id": "d91e247b-0420-46f3-8000-9df0d422e04f"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "8e8f4393-e08c-4e7c-8841-6f34ab8b5579"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2017-06-01",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2017-06-01",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2017-09-06T00:00:00-07:00",
+            "endOn": "2017-12-15T00:00:00-08:00"
+        },
+        "id": "63fa7600-3412-4069-8bea-dfbcc8d6b075"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "eb4e5547-805b-41ac-bad1-5e4de587dd59"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2017-06-01",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2017-06-01",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 1.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "passFail"
+        },
+        "involvement": {
+            "startOn": "2017-09-06T00:00:00-07:00",
+            "endOn": "2017-12-15T00:00:00-08:00"
+        },
+        "id": "82727e7f-8aeb-4772-8df4-4e1d7b5a7b5e"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "89f4ba69-66eb-4bd0-9a38-a53c70da0ae0"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2017-06-01",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2017-06-01",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 4.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2017-09-06T00:00:00-07:00",
+            "endOn": "2017-12-15T00:00:00-08:00"
+        },
+        "id": "3c39369e-a4ba-49f8-ba7b-5c6497a38cea"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "adda78aa-d45e-472c-96ba-a1d8bd8b849b"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2017-08-15",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2017-08-15",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 2.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2017-09-06T00:00:00-07:00",
+            "endOn": "2017-12-15T00:00:00-08:00"
+        },
+        "id": "e6834096-40f5-40f1-8e3e-e683c8f0ef04"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "137f19a6-35f2-4181-8563-818dce3564bc"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2017-11-16",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2017-11-16",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 4.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2018-02-01T00:00:00-08:00",
+            "endOn": "2018-05-18T00:00:00-07:00"
+        },
+        "id": "dab614ad-27bc-49dc-8b70-59de43f5cdd0"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "f0d2bc3e-958e-4e41-84e3-47cb831c0ae1"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2017-11-16",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2017-11-16",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2018-02-01T00:00:00-08:00",
+            "endOn": "2018-05-18T00:00:00-07:00"
+        },
+        "id": "da265126-1b4b-4954-b5cc-b079278abb98"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "dd637862-3d85-4b19-b4de-b7652926cc96"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2017-11-16",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2017-11-16",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2018-02-01T00:00:00-08:00",
+            "endOn": "2018-05-18T00:00:00-07:00"
+        },
+        "id": "e4fc622b-56ec-4879-8704-ed89939a0abb"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "a1674b09-2864-4027-aab2-0df5e88c701c"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2017-11-16",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2017-11-16",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 4.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2018-02-01T00:00:00-08:00",
+            "endOn": "2018-05-18T00:00:00-07:00"
+        },
+        "id": "2dabc0a0-9a5d-4d33-915c-ec2fd14b1982"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "352cfb7a-b650-47ac-a4dc-616c6cbb6722"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2017-11-16",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2017-11-16",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 2.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2018-02-01T00:00:00-08:00",
+            "endOn": "2018-05-18T00:00:00-07:00"
+        },
+        "id": "24c1ca61-603e-4f91-902c-980f544460e3"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "39dfb734-2dbb-4451-b15c-9db88c87a862"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2017-11-16",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2017-11-16",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2018-01-03T00:00:00-08:00",
+            "endOn": "2018-01-25T00:00:00-08:00"
+        },
+        "id": "7f3e0635-7064-4527-b4c2-c9c119097ec0"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "fab9e4e0-8f5b-492a-93cd-060d9d1fcd0e"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2018-04-12",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2018-04-12",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2018-09-05T00:00:00-07:00",
+            "endOn": "2018-12-14T00:00:00-08:00"
+        },
+        "id": "7aa781b2-5805-45d4-b223-d423dc9c3f9c"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "985bc027-b7c1-47a8-b303-7d6678414fc7"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2018-04-12",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2018-04-12",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2018-09-05T00:00:00-07:00",
+            "endOn": "2018-12-14T00:00:00-08:00"
+        },
+        "id": "688dc971-9db0-4c1c-bc65-a0287272fc83"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "e92df083-c919-4c16-a5ad-ea2df5594759"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2018-04-12",
+        "status": {
+            "registrationStatus": "notRegistered",
+            "sectionRegistrationStatusReason": "dropped",
+            "detail": {
+                "id": "23d01a82-b950-4765-af6f-a56adaf6f347"
+            }
+        },
+        "statusDate": "2018-09-14",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "passFail"
+        },
+        "involvement": {
+            "startOn": "2018-09-05T00:00:00-07:00",
+            "endOn": "2018-12-14T00:00:00-08:00"
+        },
+        "id": "37d27510-ca97-42ae-b091-ab33c472fc56"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "1d99762c-0535-4e86-889c-c14c425f77db"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2018-04-12",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2018-04-12",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2018-09-05T00:00:00-07:00",
+            "endOn": "2018-12-14T00:00:00-08:00"
+        },
+        "id": "b2260599-3baa-4a5b-bd93-68ee736147e9"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "5e1bbc63-759c-4a27-a179-0a40d6efd2af"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2018-04-12",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2018-04-12",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "passFail"
+        },
+        "involvement": {
+            "startOn": "2018-09-05T00:00:00-07:00",
+            "endOn": "2018-12-14T00:00:00-08:00"
+        },
+        "id": "0d89ffd3-5b0f-43e3-8dc3-e38fc451d871"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "603b2695-c1d5-41b7-9936-f591d11e157b"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2018-09-14",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "15cc75bb-f4de-4564-b597-6e5991d4bdda"
+            }
+        },
+        "statusDate": "2018-09-14",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 4.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2018-09-05T00:00:00-07:00",
+            "endOn": "2018-12-14T00:00:00-08:00"
+        },
+        "id": "1c11c907-74f5-4ef5-ba4f-588247409cbb"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "3674ddf6-dc05-420f-a7fd-b84df9411837"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2018-11-13",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2018-11-13",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2019-01-31T00:00:00-08:00",
+            "endOn": "2019-05-17T00:00:00-07:00"
+        },
+        "id": "20205144-1636-4fa1-884a-5685c6c1fc7c"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "cd7f7889-c004-40d4-b0ef-4de5275e0987"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2018-11-13",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2018-11-13",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2019-01-31T00:00:00-08:00",
+            "endOn": "2019-05-17T00:00:00-07:00"
+        },
+        "id": "f47110b9-93a0-4d47-adba-1c60dbbd0fb2"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "c6be33b9-094c-4189-978f-b42b1f2c57f0"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2018-11-13",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2018-11-13",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2019-01-31T00:00:00-08:00",
+            "endOn": "2019-05-17T00:00:00-07:00"
+        },
+        "id": "4ab55665-d243-4eb9-8919-dd3e087fa68f"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "2b5e16db-9714-4ab4-942e-e1d01e46b40c"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2018-11-13",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2018-11-13",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2019-01-03T00:00:00-08:00",
+            "endOn": "2019-01-24T00:00:00-08:00"
+        },
+        "id": "3f6c9ef2-29f8-4e93-b100-3af106374070"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "9336f466-2879-4110-9cd9-c4a325571495"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2018-11-13",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2018-11-13",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 1.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2019-01-03T00:00:00-08:00",
+            "endOn": "2019-01-24T00:00:00-08:00"
+        },
+        "id": "3527d191-a466-4dcf-91f7-61faf167d35d"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "f3cf0502-e41e-4049-9120-d188e0063880"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2019-01-10",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2019-01-10",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 4.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2019-01-31T00:00:00-08:00",
+            "endOn": "2019-05-17T00:00:00-07:00"
+        },
+        "id": "a8880bc8-da85-4ee9-955b-07f1308ba4b2"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "5f8964ac-3935-4f94-beb5-cd34b5cd9f5e"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2019-01-29",
+        "status": {
+            "registrationStatus": "notRegistered",
+            "sectionRegistrationStatusReason": "dropped",
+            "detail": {
+                "id": "f5497d90-7a28-4fca-9339-08112f47a7b2"
+            }
+        },
+        "statusDate": "2019-02-06",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2019-01-31T00:00:00-08:00",
+            "endOn": "2019-05-17T00:00:00-07:00"
+        },
+        "id": "5e9188ec-97cd-4460-b8d1-27c86fe534cc"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "2f58744e-ab1c-40c6-8f94-a2f05757863f"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2019-02-06",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2019-02-06",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2019-01-31T00:00:00-08:00",
+            "endOn": "2019-05-17T00:00:00-07:00"
+        },
+        "id": "eff757f6-2b8d-453a-9215-388718e10135"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "575e7399-8f8f-4544-9458-626bbf153424"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2019-04-05",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2019-04-05",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2019-09-04T00:00:00-07:00",
+            "endOn": "2019-12-13T00:00:00-08:00"
+        },
+        "id": "6b080ab8-be25-4755-aeda-0094a1ff8019"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "a0ddeb07-b280-49ef-b3dd-12269f404ac6"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2019-04-05",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2019-04-05",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2019-09-04T00:00:00-07:00",
+            "endOn": "2019-12-13T00:00:00-08:00"
+        },
+        "id": "eeabc4f9-9fe1-4e2c-9391-6fdc6e4e837f"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "a722c04b-23c7-495e-9c5d-91eaae9706f9"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2019-04-05",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2019-04-05",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2019-09-04T00:00:00-07:00",
+            "endOn": "2019-12-13T00:00:00-08:00"
+        },
+        "id": "a24ccce4-4f95-422f-a980-c22558107cf1"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "38517402-f72d-4b5a-a84b-b99da57cfaf7"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2019-04-05",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2019-04-05",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2019-09-04T00:00:00-07:00",
+            "endOn": "2019-12-13T00:00:00-08:00"
+        },
+        "id": "b8b76ff2-31ca-49f9-8971-a46ccfe04579"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "ea4f127c-75d4-4e68-86a6-b1e30c906742"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2019-04-05",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2019-04-05",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2019-09-04T00:00:00-07:00",
+            "endOn": "2019-12-13T00:00:00-08:00"
+        },
+        "id": "b6391e3b-a793-4e6f-ab4c-773249c4fa0c"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "00c32242-53c9-4245-81ad-aad914593bc9"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2019-04-05",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2019-04-05",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 1.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2019-09-04T00:00:00-07:00",
+            "endOn": "2019-10-18T00:00:00-07:00"
+        },
+        "id": "40de42b6-0076-4b11-9968-97d7c0d001dd"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "f645f8d0-d53d-427b-a939-80b4727917e5"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2019-11-07",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2019-11-07",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2020-01-03T00:00:00-08:00",
+            "endOn": "2020-01-24T00:00:00-08:00"
+        },
+        "id": "28037e0d-abbf-4ff6-b7cc-a6b15e55229f"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "8926d3b7-4fa7-42d8-91f0-55b08eec9c42"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2019-11-07",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2019-11-07",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 1.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2020-01-03T00:00:00-08:00",
+            "endOn": "2020-01-24T00:00:00-08:00"
+        },
+        "id": "4d7eff06-8cd2-4c43-a155-fb6bf2927e11"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "3c5ab577-d1c3-46ed-8cb4-be543604ef3f"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2019-11-07",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2019-11-07",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2020-01-29T00:00:00-08:00",
+            "endOn": "2020-05-15T00:00:00-07:00"
+        },
+        "id": "89e51de5-9716-4cea-ba77-c6410a9ffc2d"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "cbb2c83b-89df-4b9e-aa2a-b9024e29b02c"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2019-11-07",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2019-11-07",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2020-01-30T00:00:00-08:00",
+            "endOn": "2020-05-15T00:00:00-07:00"
+        },
+        "id": "c9c1625d-1e16-447a-bc6b-4ce3eefa9d52"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "29657f96-7c31-452e-855b-c449825d421f"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2019-11-07",
+        "status": {
+            "registrationStatus": "notRegistered",
+            "sectionRegistrationStatusReason": "dropped",
+            "detail": {
+                "id": "f5497d90-7a28-4fca-9339-08112f47a7b2"
+            }
+        },
+        "statusDate": "2020-02-03",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2020-01-30T00:00:00-08:00",
+            "endOn": "2020-05-15T00:00:00-07:00"
+        },
+        "id": "4b8b12d3-298b-4c61-9b49-abdc217d7fd4"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "bdeec6fd-53cf-4b53-a17d-c7f9a990b76b"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2019-11-07",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2019-11-07",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2020-01-30T00:00:00-08:00",
+            "endOn": "2020-05-15T00:00:00-07:00"
+        },
+        "id": "925d4ce2-ba88-4208-a382-1446bdd5e168"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "acca196a-32e3-43cf-bdbc-8b4b2c1255c0"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2019-11-07",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2019-11-07",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "passFail"
+        },
+        "involvement": {
+            "startOn": "2020-01-30T00:00:00-08:00",
+            "endOn": "2020-05-15T00:00:00-07:00"
+        },
+        "id": "6f60d51e-a43a-42ae-b8f9-70449a568d33"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "b2969154-890d-4931-9ea5-59bc2dcab6e4"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2020-02-03",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2020-02-03",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2020-01-30T00:00:00-08:00",
+            "endOn": "2020-05-15T00:00:00-07:00"
+        },
+        "id": "d8b32bda-80e5-4b6b-84c5-8ba5955cd5f7"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "3b1286b3-f595-4ff7-853e-2b42d3887567"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2020-03-31",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2020-03-31",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2020-09-09T00:00:00-07:00",
+            "endOn": "2020-12-18T00:00:00-08:00"
+        },
+        "id": "262cd782-2c78-4611-888f-687fe22cf979"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "0abdbdde-5771-425e-a8b3-fade6c82d124"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2020-03-31",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2020-03-31",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2020-09-09T00:00:00-07:00",
+            "endOn": "2020-12-18T00:00:00-08:00"
+        },
+        "id": "1ccaaf41-6455-4027-bcd6-89f713600380"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "24b3ffb0-0e10-4daa-8a13-313dcbb1867a"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2020-03-31",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2020-03-31",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2020-09-09T00:00:00-07:00",
+            "endOn": "2020-12-18T00:00:00-08:00"
+        },
+        "id": "0956e98f-d220-48b7-96e0-1b3e0da518f3"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "60520ae3-0b30-448b-bd48-80e1bcb88078"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2020-03-31",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2020-03-31",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2020-09-09T00:00:00-07:00",
+            "endOn": "2020-12-18T00:00:00-08:00"
+        },
+        "id": "d386f116-c50d-48ec-867c-7a202e95fa2e"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "3521cac4-6e9d-4224-a2f1-0bc5c9af6195"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2020-03-31",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2020-03-31",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2020-09-09T00:00:00-07:00",
+            "endOn": "2020-12-18T00:00:00-08:00"
+        },
+        "id": "b1364286-e57c-4f8b-8ff4-84c197e65634"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "78a64023-50b4-47b8-9077-13d19ca89f66"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2020-11-10",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2020-11-10",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2021-02-10T00:00:00-08:00",
+            "endOn": "2021-05-21T00:00:00-07:00"
+        },
+        "id": "52959ce1-06f0-4504-8a90-0b58ca1f9649"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "54653d05-a990-46b8-832d-20245b5621e5"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2020-11-10",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2020-11-10",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2021-02-11T00:00:00-08:00",
+            "endOn": "2021-05-21T00:00:00-07:00"
+        },
+        "id": "e160e36a-27f5-4bef-9abd-809bd4ea6e83"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "d69c3f5f-e530-40e9-b8a4-e2c9cddb48a2"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2020-11-10",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2020-11-10",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2021-02-11T00:00:00-08:00",
+            "endOn": "2021-05-21T00:00:00-07:00"
+        },
+        "id": "1734adb9-00e7-4e7e-ae3e-d76a6da4cbef"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "1249e4b8-e2cd-4a22-afa0-8980d9c11b2c"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2020-11-10",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2020-11-10",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2021-02-11T00:00:00-08:00",
+            "endOn": "2021-05-21T00:00:00-07:00"
+        },
+        "id": "878543a2-9290-4b67-b900-b7ec49ffe6be"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "c2fd7438-7adb-49e1-ab25-0681b4ae1718"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2020-11-10",
+        "status": {
+            "registrationStatus": "notRegistered",
+            "sectionRegistrationStatusReason": "canceled",
+            "detail": {
+                "id": "bf216726-8dca-4003-82bf-d3a5b80a3fbc"
+            }
+        },
+        "statusDate": "2020-12-17",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "standard"
+        },
+        "involvement": {
+            "startOn": "2021-02-11T00:00:00-08:00",
+            "endOn": "2021-05-21T00:00:00-07:00"
+        },
+        "id": "106eb500-3e72-4caa-a386-f2920cba27ce"
+    },
+    {
+        "registrant": {
+            "id": "4f3f730b-1d19-48a2-85ba-bf978a28fbde"
+        },
+        "section": {
+            "id": "eb313a85-8c08-4858-920c-ca1ee5a91069"
+        },
+        "academicLevel": {
+            "id": "0465be10-f9cc-4e51-a569-2dac4ce42219"
+        },
+        "originallyRegisteredOn": "2020-12-18",
+        "status": {
+            "registrationStatus": "registered",
+            "sectionRegistrationStatusReason": "registered",
+            "detail": {
+                "id": "a8839bc5-b6a4-4399-b440-a69d82ef70af"
+            }
+        },
+        "statusDate": "2020-12-18",
+        "approvals": [
+            {
+                "approvalType": "all",
+                "approvalEntity": "system"
+            }
+        ],
+        "credit": {
+            "measure": "credit",
+            "registrationCredit": 3.00000
+        },
+        "gradingOption": {
+            "gradeScheme": {
+                "id": "2a359e21-ef84-4561-9a4d-1c9c53bd2161"
+            },
+            "mode": "passFail"
+        },
+        "involvement": {
+            "startOn": "2021-02-11T00:00:00-08:00",
+            "endOn": "2021-05-21T00:00:00-07:00"
+        },
+        "override": {
+            "site": {
+                "id": "c8fe02a6-92bc-4e00-adfa-49aae02946f5"
+            }
+        },
+        "id": "da640684-464f-4557-bfd5-6316c65669de"
+    }
+]

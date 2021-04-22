@@ -1,0 +1,72 @@
+[
+    {
+        "courseID": "CS-294-1",
+        "courseName": "Career and Vocation Seminar",
+        "professor": "Scott Griffith",
+        "location": "Online",
+        "credit": 1.00000,
+        "days": "TH",
+        "startTime": "11:45:00",
+        "endTime": "12:40:00"
+    },
+    {
+        "courseID": "CS-378H-N",
+        "courseName": "How to Make Darn-Near Anything",
+        "professor": "Pete Tucker",
+        "location": "Eric Johnston Science Center 308 ",
+        "credit": 3.00000,
+        "days": "W",
+        "startTime": "18:30:00",
+        "endTime": "21:30:00"
+    },
+    {
+        "courseID": "FW-142-1",
+        "courseName": "Training for Mountaineering",
+        "professor": "Brad Pointer",
+        "location": "University Recreation Center",
+        "credit": 1.00000,
+        "days": "TTH",
+        "startTime": "14:20:00",
+        "endTime": "15:40:00"
+    },
+    {
+        "courseID": "MA-330-1",
+        "courseName": "Linear Algebra",
+        "professor": "Ann Trefry",
+        "location": "Eric Johnston Science Center 233",
+        "credit": 3.00000,
+        "days": "MWF",
+        "startTime": "13:55:00",
+        "endTime": "14:50:00"
+    },
+    {
+        "courseID": "PE-196-1",
+        "courseName": "Introduction to Mountaineering",
+        "professor": "Brad Pointer",
+        "location": "University Recreation Center",
+        "credit": 1.00000,
+        "days": "TTH",
+        "startTime": "14:20:00",
+        "endTime": "15:40:00"
+    },
+    {
+        "courseID": "PS-153-3",
+        "courseName": "General Physics II",
+        "professor": "Richard Stevens",
+        "location": "Eric Johnston Science Center 233",
+        "credit": 3.00000,
+        "days": "MWF",
+        "startTime": "11:45:00",
+        "endTime": "12:40:00"
+    },
+{
+    "courseID": "PS-153L-5",
+    "courseName": "General Physics II Lab",
+    "professor": "Steven Zemke",
+    "location": "Eric Johnston Science Center 233",
+    "credit": 1.00000,
+    "days": "TH",
+    "startTime": "8:00:00",
+    "endTime": "10:50:00"
+}
+]
