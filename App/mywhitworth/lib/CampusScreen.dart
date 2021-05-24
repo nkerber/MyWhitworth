@@ -15,8 +15,14 @@ class CampusScreen extends StatefulWidget {
   _CampusScreenState createState() => _CampusScreenState();
 }
 
-class _CampusScreenState extends State<CampusScreen> {
-  double mapw, maph;
+class MoveableStackItem extends StatefulWidget {
+  @override
+  State<StatefulWidget> createState() {
+    return _MoveableStackItemState();
+  }
+}
+
+class _MoveableStackItemState extends State<MoveableStackItem> {
   List numbersList = [
     'McEachran Hall – Administration',
     'MacKay Hall – Admissions',
@@ -64,24 +70,50 @@ class _CampusScreenState extends State<CampusScreen> {
     'Facilities Services Trades/Grounds',
     'Facilities Services Warehouse',
     'The Pines Café/Bookstore',
+    'Campanile',
+    'Pine Bowl',
+    'Omache Field',
+    'Marks Field',
+    'Soccer Field',
+    'Totem Pole',
+    'Merkel Field',
+    'Tennis Dome',
+    'Tennis Courts',
+    'Soccer Practice Field',
+    'Ampitheatre'
   ];
 
-  Widget build(BuildContext context) {
+  double xPos = 0;
+  double yPos = 610;
 
-    return Scaffold(
-      body: Stack(
-        children: [
-          SvgPicture.asset('assets/images/Map2.svg', width: mapw,height:maph),
-          Padding(
+  void initState() {
+    super.initState();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Positioned(
+      top: yPos,
+      left: xPos,
+      child: GestureDetector(
+          onPanUpdate: (tapInfo) {
+            setState(() {
+              //xPos += tapInfo.delta.dx;
+              if ((yPos + tapInfo.delta.dy) > 30 &&
+                  (yPos + tapInfo.delta.dy) < 611) {
+                    yPos += tapInfo.delta.dy;
+              } 
+            });
+          },
+          child: Padding(
             padding: const EdgeInsets.all(10.0),
             child: Card(
               color: Colors.white.withOpacity(0.8),
               child: Container(
                 height: 200,
-                width: 450,
+                width: 400,
                 child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.center,
-                  
+                  crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
                     Padding(
                       padding: const EdgeInsets.all(12.0),
@@ -122,46 +154,34 @@ class _CampusScreenState extends State<CampusScreen> {
                     ),
                   ],
                 ),
-              ),),),
-          
-        ],
-      ),
+              ),
+            ),
+          )),
     );
   }
 }
-  
-          /*Container(
+
+class _CampusScreenState extends State<CampusScreen> {
+  Widget build(BuildContext context) {
+    return Scaffold(
+      body: Stack(
+        children: [
+          Container(
             color: Colors.red.withOpacity(.5),
             child: PhotoView(
               imageProvider: AssetImage('assets/images/Map.png'),
               minScale: PhotoViewComputedScale.contained * 3.7,
               maxScale: PhotoViewComputedScale.covered * 10,
               enableRotation: true,
+              loadingBuilder: (context, progress) =>
+                  Center(child: CircularProgressIndicator()),
             ),
           ),
-          
-
-
-
-WebViewController _webViewController;
-  String filePath = 'files/index.html';
-body: WebView(
-        initialUrl: '', javascriptMode: JavascriptMode.unrestricted,
-        onWebViewCreated: (WebViewController webViewController) {
-          _loadHtmlFromAssets();
-        },
+          MoveableStackItem()
+        ],
       ),
-  _loadHtmlFromAssets() async {
-    String file = await rootBundle.loadString(filePath);
-    _webViewController.loadUrl(Uri.dataFromString(file,
-            mimeType: 'text/html', encoding: Encoding.getByName('utf-8')).toString());
+    );
   }
-*/
+}
 
-/*Text(
-          'Map Data Here',
-          style: TextStyle(fontSize: 25, color: Colors.white),*/
-
-/**/
-
-// https://flutter-examples.com/flutter-load-local-html-file/#:~:text=Now%20before%20start%20coding%20we,file%20in%20any%20code%20editor.
+//alignment: Alignment.bottomCenter,

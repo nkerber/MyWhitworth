@@ -1,0 +1,269 @@
+[
+    {   "Date": "05-18-2021",
+        "Meal": "Breakfast",
+        "Type": "Dessert",
+        "ItemName": "Banana Chocolate Chip Muffin",
+        "Calories": 190
+    },
+    {
+        "Date": "05-18-2021",
+        "Meal": "Breakfast",
+        "Type": "Dessert",
+        "ItemName": "Apple Cinnamon Mini Scone",
+        "Calories": 190
+    },
+    {
+        "Date": "05-18-2021",
+        "Meal": "Breakfast",
+        "Type": "Entree",
+        "ItemName": "Apple Pancakes",
+        "Calories": 210
+    },
+    {
+        "Date": "05-18-2021",
+        "Meal": "Breakfast",
+        "Type": "Entree",
+        "ItemName": "Scrambled Tofu",
+        "Calories": 100
+    },
+    {
+        "Date": "05-18-2021",
+        "Meal": "Breakfast",
+        "Type": "Entree",
+        "ItemName": "Sausage Patties",
+        "Calories": 380
+    },
+    {
+        "Date": "05-18-2021",
+        "Meal": "Breakfast",
+        "Type": "Entree",
+        "ItemName": "Susage Gravy & Biscuit",
+        "Calories": 250
+    },
+    {
+        "Date": "05-18-2021",
+        "Meal": "Breakfast",
+        "Type": "Entree",
+        "ItemName": "Hash Brown Patty",
+        "Calories": 150
+    },
+    {
+        "Date": "05-18-2021",
+        "Meal": "Breakfast",
+        "Type": "Entree",
+        "ItemName": "Scrambled Eggs",
+        "Calories": 190
+    },
+    {
+        "Date": "05-18-2021",
+        "Meal": "Breakfast",
+        "Type": "Oatmeal",
+        "ItemName": "Oatmeal With Toppings",
+        "Calories": 350
+    },
+    {
+        "Date": "05-18-2021",
+        "Meal": "Breakfast",
+        "Type": "Yogurt Bar",
+        "ItemName": "Low Fat Vanilla Yogurt",
+        "Calories": 100
+    },
+    {
+        "Date": "05-18-2021",
+        "Meal": "Breakfast",
+        "Type": "Yogurt Bar",
+        "ItemName": "Mixed Fruit",
+        "Calories": 70
+    },
+    {
+        "Date": "05-18-2021",
+        "Meal": "Lunch",
+        "Type": "Dessert",
+        "ItemName": "Blondie Bar",
+        "Calories": 190
+    },
+    {
+        "Date": "05-18-2021",
+        "Meal": "Lunch",
+        "Type": "Entree",
+        "ItemName": "Apple Pancakes",
+        "Calories": 210
+    },{
+        "Date": "05-18-2021",
+        "Meal": "Lunch",
+        "Type": "Entree",
+        "ItemName": "Farmers Egg Breakfast Bowl",
+        "Calories": 310
+    },{
+        "Date": "05-18-2021",
+        "Meal": "Lunch",
+        "Type": "Grill Lunch",
+        "ItemName": "Sour Cream",
+        "Calories": 30
+    },{
+        "Date": "05-18-2021",
+        "Meal": "Lunch",
+        "Type": "Girll Lunch",
+        "ItemName": "Salsa Roja",
+        "Calories": 10
+    },{
+        "Date": "05-18-2021",
+        "Meal": "Lunch",
+        "Type": "Grill Lunch",
+        "ItemName": "Acorn & Butternut Squash Chili",
+        "Calories": 90
+    },
+    {
+        "Date": "05-18-2021",
+        "Meal": "Lunch",
+        "Type": "Grill Lunch",
+        "ItemName": "Braised Shredded Chicken",
+        "Calories": 80
+    },{
+        "Date": "05-18-2021",
+        "Meal": "Lunch",
+        "Type": "Grill Lunch",
+        "ItemName": "Mixed Green Garden Salad",
+        "Calories": 20
+    },{
+        "Date": "05-18-2021",
+        "Meal": "Lunch",
+        "Type": "Grill Lunch",
+        "ItemName": "Cilantro Lime Rice",
+        "Calories": 140
+    },{
+        "Date": "05-18-2021",
+        "Meal": "Lunch",
+        "Type": "Grill Lunch",
+        "ItemName": "Bean & Cheese Nachos",
+        "Calories": 500
+    },{
+        "Date": "05-18-2021",
+        "Meal": "Dinner",
+        "Type": "Dessert",
+        "ItemName": "Dutch Apple Pie",
+        "Calories": 410
+    },{
+        "Date": "05-18-2021",
+        "Meal": "Dinner",
+        "Type": "Dessert",
+        "ItemName": "Caramel Macchiato Cake",
+        "Calories": 300
+    },{
+        "Date": "05-18-2021",
+        "Meal": "Dinner",
+        "Type": "Entree Dinner",
+        "ItemName": "Spaghetti Squash & Pintos With Sofrito",
+        "Calories": 200
+    },{
+        "Date": "05-18-2021",
+        "Meal": "Dinner",
+        "Type": "Entree Dinner",
+        "ItemName": "Honey Ginger Chicken Thigh",
+        "Calories": 200
+    },{
+        "Date": "05-18-2021",
+        "Meal": "Dinner",
+        "Type": "Entree Dinner",
+        "ItemName": "Green Beans & Stewed Tomatoes",
+        "Calories": 200
+    },{
+        "Date": "05-18-2021",
+        "Meal": "Dinner",
+        "Type": "Entree Dinner",
+        "ItemName": "Jasmine Rice",
+        "Calories": 120
+    },{
+        "Date": "05-18-2021",
+        "Meal": "Dinner",
+        "Type": "Entree Dinner",
+        "ItemName": "Crispy Smashed Red Bliss Potato",
+        "Calories": 110
+    },
+    {
+        "Date": "05-18-2021",
+        "Meal": "Dinner",
+        "Type": "Global Dinner",
+        "ItemName": "Jasmine Rice",
+        "Calories": 120
+    },{
+        "Date": "05-18-2021",
+        "Meal": "Dinner",
+        "Type": "Global Dinner",
+        "ItemName": "Honey Ginger Chicken Thigh",
+        "Calories": 200
+    },{
+        "Date": "05-18-2021",
+        "Meal": "Dinner",
+        "Type": "Grill Dinner",
+        "ItemName": "Honey Battered Corn Dog",
+        "Calories": 380
+    },{
+        "Date": "05-18-2021",
+        "Meal": "Dinner",
+        "Type": "Grill Dinner",
+        "ItemName": "Carrot & Celery Sticks",
+        "Calories": 20
+    },{
+        "Date": "05-18-2021",
+        "Meal": "Dinner",
+        "Type": "Grill Dinner",
+        "ItemName": "French Fries",
+        "Calories": 190
+    },{
+        "Date": "05-18-2021",
+        "Meal": "Dinner",
+        "Type": "Grill Dinner",
+        "ItemName": "Ranch Dressing",
+        "Calories": 100
+    },
+    {
+        "Date": "05-18-2021",
+        "Meal": "Dinner",
+        "Type": "Pasta Bar Dinner",
+        "ItemName": "Garlic Breadstick",
+        "Calories": 140
+    },{
+        "Date": "05-18-2021",
+        "Meal": "Dinner",
+        "Type": "Pasta Bar Dinner",
+        "ItemName": "Alfredo Sauce",
+        "Calories": 190
+    },{
+        "Date": "05-18-2021",
+        "Meal": "Dinner",
+        "Type": "Pasta Bar Dinner",
+        "ItemName": "Spaghetti Pasta",
+        "Calories": 260
+    },{
+        "Date": "05-18-2021",
+        "Meal": "Dinner",
+        "Type": "Pasta Bar Dinner",
+        "ItemName": "Glazed Carrots",
+        "Calories": 90
+    },{
+        "Date": "05-18-2021",
+        "Meal": "Dinner",
+        "Type": "Pasta Bar Dinner",
+        "ItemName": "Spaghetti Sauce",
+        "Calories": 60
+    },{
+        "Date": "05-18-2021",
+        "Meal": "Dinner",
+        "Type": "Pizza Dinner",
+        "ItemName": "Cheese Pizza",
+        "Calories": 220
+    },{
+        "Date": "05-18-2021",
+        "Meal": "Dinner",
+        "Type": "Pizza Dinner",
+        "ItemName": "Greek Pizza",
+        "Calories": 280
+    },{
+        "Date": "05-18-2021",
+        "Meal": "Dinner",
+        "Type": "Pizza Dinner",
+        "ItemName": "Pepperoni Pizza",
+        "Calories": 250
+    }
+]

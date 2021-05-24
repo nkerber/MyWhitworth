@@ -1,23 +1,40 @@
 import 'package:flutter/material.dart';
 
 class MenuScreen extends StatefulWidget {
-  
+  @override
   _MenuScreenState createState() => _MenuScreenState();
 }
 
 class _MenuScreenState extends State<MenuScreen> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-        body: Center(
-        child: Text(
-          'Under Construction!',
-          style: TextStyle(fontSize: 25, color: Colors.white, fontWeight: FontWeight.bold),
-        ),
-      ),
-    );
+    return null;
   }
 }
+
+// class _MenuScreenState extends State<MenuScreen> {
+
+//   final DateTime now = new DateTime.now();
+
+
+//   @override
+//   Widget build(BuildContext context) {
+//     return Scaffold(
+//         body: Center(
+//           child: (
+//             ListView(
+//               children: [
+//                 Card(
+                  
+//                   Text()
+//                 ),
+//               ]
+//             )
+//           ),
+//       ),
+//     );
+//   }
+// }
 
 /*Widget quickCalls = Container(
   child: Card(

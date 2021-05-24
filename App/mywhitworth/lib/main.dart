@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:mywhitworth/ClassesScreen.dart';
-import 'package:mywhitworth/MenuScreen.dart';
+import 'package:mywhitworth/Menu.dart';
 import 'package:mywhitworth/EventsScreen.dart';
 import 'package:mywhitworth/CampusScreen.dart';
 import 'package:mywhitworth/MoreScreen.dart';

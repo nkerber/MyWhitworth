@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
+import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 void _call(String number) async {
@@ -7,7 +8,7 @@ void _call(String number) async {
   if (await canLaunch(telNum)) {
     await launch(telNum);
   } else {
-    throw('Could not launch $telNum');
+    print('Could not launch $telNum');
   }
 }
 
@@ -20,78 +21,151 @@ Widget quickCalls = Container(
         12,
         12,
       ),
-      child: Column(
-        children: [
-          Row(
-            children: [
-              Text(
-                'Quick Calls',
-                style: TextStyle(
-                  fontSize: 25,
-                  fontWeight: FontWeight.bold,
-                ),
+      child: Column(children: [
+        Row(
+          children: [
+            Text(
+              'Quick Calls',
+              style: TextStyle(
+                fontSize: 25,
+                fontWeight: FontWeight.bold,
               ),
-            ],
-          ),
-          Row(
-            children: [
-              TextButton(
-                onPressed: () {
-                  _call('911');
-                },
-                child: Text('911'),
-                style: TextButton.styleFrom(
-                  backgroundColor: Colors.red[700],
-                  primary: Colors.white,
-                  textStyle: TextStyle(
-                    fontSize: 20,
-                    fontWeight: FontWeight.bold,
+            ),
+          ],
+        ),
+        Row(
+          crossAxisAlignment: CrossAxisAlignment.start,
+          children: [
+            Column(
+              children: [
+                IconButton(
+                  color: Colors.red[800],
+                  iconSize: 35,
+                  icon: const Icon(
+                    FontAwesomeIcons.solidBell,
+                  ),
+                  onPressed: () {
+                    _call('911');
+                  },
+                ),
+                Padding(
+                  padding: const EdgeInsetsDirectional.only(top: 5.0),
+                  child: Text(
+                    '911',
+                    style: TextStyle(
+                      color: Colors.grey[900],
+                      fontSize: 13.0,
+                      fontWeight: FontWeight.bold,
+                    ),
+                    textAlign: TextAlign.center,
                   ),
                 ),
-              ),
-              Padding(
-                padding: const EdgeInsetsDirectional.only(
-                  start: 10,
-                  //bottom: 10,
-                ),
-                child: TextButton(
+              ],
+            ),
+            Spacer(),
+            Column(
+              children: [
+                IconButton(
+                  color: Colors.blue[800],
+                  iconSize: 35,
+                  icon: const Icon(FontAwesomeIcons.video),
                   onPressed: () {
                     _call('5097774444');
                   },
-                  child: Text('Campus Security'),
-                  style: TextButton.styleFrom(
-                    backgroundColor: Colors.blue[700],
-                    primary: Colors.white,
-                    textStyle:
-                        TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+                ),
+                Padding(
+                  padding: const EdgeInsetsDirectional.only(top: 5.0),
+                  child: Text(
+                    'Campus\nSecurity',
+                    style: TextStyle(
+                      color: Colors.grey[900],
+                      fontSize: 13.0,
+                      fontWeight: FontWeight.bold,
+                    ),
+                    textAlign: TextAlign.center,
                   ),
                 ),
-              ),
-            ],
-          ),
-          Row(
-            children: [
-              Padding(
-                padding: const EdgeInsetsDirectional.only(
-                    //start: 10,
-                    ),
-                child: TextButton(
+              ],
+            ),
+            Spacer(),
+            Column(
+              children: [
+                IconButton(
+                  color: Colors.green[800],
+                  iconSize: 35,
+                  icon: const Icon(FontAwesomeIcons.firstAid),
                   onPressed: () {
                     _call('1-509-777-3259');
                   },
-                  child: Text('Health Center'),
-                  style: TextButton.styleFrom(
-                    backgroundColor: Colors.green[700],
-                    primary: Colors.white,
-                    textStyle:
-                        TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+                ),
+                Padding(
+                  padding: const EdgeInsetsDirectional.only(top: 5.0),
+                  child: Text(
+                    'Health\nCenter',
+                    style: TextStyle(
+                      color: Colors.grey[900],
+                      fontSize: 13.0,
+                      fontWeight: FontWeight.bold,
+                    ),
+                    textAlign: TextAlign.center,
                   ),
                 ),
-              ),
-            ],
-          )
-        ],
-      ),
+              ],
+            ),
+            Spacer(),
+            Column(
+              children: [
+                IconButton(
+                  color: Colors.yellow[800],
+                  iconSize: 35,
+                  icon: const Icon(FontAwesomeIcons.solidQuestionCircle),
+                  onPressed: () {
+                    _call('1-509-777-3271');
+                  },
+                ),
+                Padding(
+                  padding: const EdgeInsetsDirectional.only(top: 5.0),
+                  child: Text(
+                    'Student\nLife',
+                    style: TextStyle(
+                      color: Colors.grey[900],
+                      fontSize: 13.0,
+                      fontWeight: FontWeight.bold,
+                    ),
+                    textAlign: TextAlign.center,
+                  ),
+                ),
+              ],
+            ),
+            Spacer(),
+            Column(
+              children: [
+                IconButton(
+                  color: Colors.purple[800],
+                  iconSize: 35,
+                  icon: const Icon(FontAwesomeIcons.running),
+                  
+                  onPressed: () {
+                    _call('1-509-777-3134');
+                  },
+                ),
+                Padding(
+                  padding: const EdgeInsetsDirectional.only(top: 5.0),
+                  child: Text(
+                    'U-Rec',
+                    style: TextStyle(
+                      color: Colors.grey[900],
+                      fontSize: 13.0,
+                      fontWeight: FontWeight.bold,
+                    ),
+                    textAlign: TextAlign.center,
+                  ),
+                ),
+              ],
+            ),
+          ],
+        ),
+      ]),
     ),
     color: Colors.white.withOpacity(.85),
     shape: RoundedRectangleBorder(
@@ -118,7 +192,7 @@ Widget suggestions = Container(
           Row(
             children: [
               Text(
-                'Suggested Apps & Links',
+                'Suggested Links',
                 style: TextStyle(
                   fontSize: 25,
                   fontWeight: FontWeight.bold,
@@ -242,22 +316,26 @@ Widget suggestions = Container(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               TextButton(
-                onPressed: () => launch('https://google.com'),
+                onPressed: () => launch(
+                    'https://www.whitworth.edu/cms/administration/financial-aid/'),
                 child: Text('Financial Aid'),
               ),
               Text('|'),
               TextButton(
-                onPressed: () => launch('https://google.com'),
+                onPressed: () => launch(
+                    'https://www.whitworth.edu/cms/administration/university-recreation-center/'),
                 child: Text('U-Rec'),
               ),
               Text('|'),
               TextButton(
-                onPressed: () => launch('https://google.com'),
+                onPressed: () =>
+                    launch('https://www.bkstr.com/whitworthstore/home'),
                 child: Text('Bookstore'),
               ),
               Text('|'),
               TextButton(
-                onPressed: () => launch('https://google.com'),
+                onPressed: () => launch(
+                    'https://www.whitworth.edu/cms/administration/registrar/'),
                 child: Text('Registrar'),
               ),
             ],
@@ -297,7 +375,7 @@ class _MoreState extends State<MoreScreen> {
           children: [
             SizedBox(height: 50.0),
             Padding(
-              padding: const EdgeInsets.only(left: 5),
+              padding: EdgeInsets.only(left: 5),
               child: Text(
                 'More',
                 style: TextStyle(
